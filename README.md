@@ -39,3 +39,24 @@ python main.py
 ```
 http://127.0.0.1:5000/
 ```
+## Screenshots
+
+### Home Page
+
+![Home 1](screenshots/home1.png.png)
+
+![Home 2](screenshots/home2.png.png)
+
+
+### Python Developer Analysis
+
+![Python Developer 1](screenshots/python1.png.pngg)
+
+![Python Developer 2](screenshots/python2.png.png)
+
+
+### Data Analyst Analysis
+
+![Data Analyst 1](screenshots/data1.png.png)
+
+![Data Analyst 2](screenshots/data2.png.png)
