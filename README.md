@@ -43,20 +43,20 @@ http://127.0.0.1:5000/
 
 ### Home Page
 
-![Home Screenshot 1](screenshots/home1.png.png)
+![Home Screenshot 1](home1.png.png)
 
-![Home Screenshot 2](screenshots/home2.png.png)
+![Home Screenshot 2](home2.png.png)
 
 
 ### Python Developer Analysis
 
-![Python Developer Screenshot 1](screenshots/python1.png.png)
+![Python Screenshot 1](python1.png.png)
 
-![Python Developer Screenshot 2](screenshots/python2.png.png)
+![Python Screenshot 2](python2.png.png)
 
 
 ### Data Analyst Analysis
 
-![Data Analyst Screenshot 1](screenshots/data1.png.png)
+![Data Screenshot 1](data1.png.png)
 
-![Data Analyst Screenshot 2](screenshots/data2.png.png)
+![Data Screenshot 2](data2.png.png)
