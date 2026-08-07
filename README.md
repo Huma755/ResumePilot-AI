@@ -1,6 +1,6 @@
-# ResumePilot AI
+# Resume Skill Analyzer
 
-ResumePilot AI is a simple web application developed using Flask. It analyzes a resume based on the job role selected by the user. Users can upload their resume in PDF format, choose one of the available job roles, and the application compares the resume with the required skills for that role.
+Resume Skill Analyzer is a simple web application developed using Flask. It analyzes a resume based on the job role selected by the user. Users can upload their resume in PDF format, choose one of the available job roles, and the application compares the resume with the required skills for that role.
 
 At the moment, the application supports these job roles:
 
